@@ -15,6 +15,7 @@ Y or N           - Y to save to the file.
 #include <fstream>
 using namespace std;
 
+// Nikhil edit this!
 
 int main() {
   int numGuests;
